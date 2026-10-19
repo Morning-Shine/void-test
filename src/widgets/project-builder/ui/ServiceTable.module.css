@@ -1,0 +1,15 @@
+  :global(.services-table) {
+      width: 100%;
+      border-collapse: collapse;
+  }
+
+  :global(.services-table) th,
+  :global(.services-table) td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+  }
+
+  :global(.services-table) th {
+      text-align: left;
+  }
